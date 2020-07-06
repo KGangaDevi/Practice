@@ -25,3 +25,4 @@ do	((totalWorkDays++))
 done
 	totalSalary=$(($totalEmpHrs*$empRateHr))
 	echo "total Salary of Employee is:" $totalSalary
+#File Created and executed in Branch2
